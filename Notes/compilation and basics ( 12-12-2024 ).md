@@ -31,5 +31,5 @@ int main(){
 ### the -o prog1 is an argument to the compiler and names the file in which to put the executable file 
 
 
-# how to check to exit status code 
+# how to check The exit status code 
 ##  compile -> prog1.exe -> echo %ERRORLEVEL% 
